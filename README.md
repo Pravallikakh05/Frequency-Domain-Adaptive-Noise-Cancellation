@@ -25,6 +25,6 @@ To evaluate the improvement after noise cancellation in dB, the SNR before the a
 The step size mu controls the speed of adaptation of the adaptive algorithm. 
 Large mu implies quick adaptation small mu implies slow adaptation. Different values of mu are experimented with and the best value is chosen. The entire experiment is performed for both random noise and background music. Error convergence curves are plotted to show how fast the algorithm converges.
 
-The results are shown in the report.
+The results are shown in the Report.
 
 
